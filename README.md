@@ -23,3 +23,4 @@ npm i print-name-package
 ```javascript
 import name from "print-name-package";
 ```
+### And feel free to use this app
