@@ -1,5 +1,5 @@
 {
-  "name": "printname",
+  "name": "print-name-package",
   "version": "1.0.0",
   "description": "This will print your name",
   "main": "index.js",
