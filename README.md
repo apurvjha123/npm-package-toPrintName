@@ -21,6 +21,8 @@ npm i print-name-package
 #### Import
 
 ```javascript
-import name from "print-name-package";
+const name = require('print-name-package');
+
+name('Enter Your Name');
 ```
 ### And feel free to use this app
