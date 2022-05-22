@@ -1,0 +1,29 @@
+{
+  "name": "printname",
+  "version": "1.0.0",
+  "description": "This will print your name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apurvjha123/npm-package-toPrintName.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "module",
+    "javascript",
+    "node",
+    "js",
+    "PrintName",
+    "Goodfirst"
+  ],
+  "author": "Apuev Jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apurvjha123/npm-package-toPrintName/issues"
+  },
+  "homepage": "https://github.com/apurvjha123/npm-package-toPrintName#readme"
+}
